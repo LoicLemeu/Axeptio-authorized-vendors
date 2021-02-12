@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Axeptio authorized vendors",
+  "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"],
   "description": "contains consent",
   "containerContexts": [
     "WEB"
