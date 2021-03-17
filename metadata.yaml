@@ -16,5 +16,9 @@
 homepage: "https://www.axeptio.eu/en/home"
 documentation: "https://developers.axeptio.eu/v/english/"
 versions:
+  # Latest version
+  - sha: 41d4b525f956c8763dd2b72832bea93c50e1de1f
+    changeNotes: Changed DataLayer version to fix a bug that would prevent correct update of the variable
+  # Older versions
   - sha: f80cafbc76723307f62b9f3e6086c41307764a51
     changeNotes: Initial Version
