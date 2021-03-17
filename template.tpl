@@ -36,7 +36,7 @@ const queryPermission = require('queryPermission');
 
 const cookieName = 'axeptio_authorized_vendors';
 let cookieValues;
-cookieValues = copyFromDataLayer(cookieName);
+cookieValues = copyFromDataLayer(cookieName, 1);
 return cookieValues;
 
 
